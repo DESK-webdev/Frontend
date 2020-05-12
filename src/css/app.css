@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.foodreact{
+  margin: 1rem auto;
+  text-align: center;
+  background: #000;
+}
+
+/*****************************/
+
+.navbar{
+  display: flex;
+}

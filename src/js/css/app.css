@@ -1,0 +1,144 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  outline: none;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+.foodreact{
+  margin: 0rem auto;
+  text-align: center;
+  
+}
+
+button{
+  padding: 0.4rem 0.4rem;
+  outline: none;
+  background: rgb(255, 255, 255);
+  border:1px solid rgb(185, 165, 187);
+  border-radius: 0.3rem;
+
+
+}
+button:hover{
+
+  background: rgb(112, 111, 111);
+  border:1px solid transparent;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: #000;
+}
+
+ul{
+  list-style-type: none;
+}
+
+/********* Header and main start **********/
+
+
+.navbar{
+  display: flex;
+  justify-content:space-around;
+  padding: 1rem ;
+  background:rgb(255, 255, 255);
+  flex-wrap: wrap;
+  border: 1px solid rgb(241, 241, 241);
+}
+
+
+
+
+.brandname{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navlinks{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.navlinks li{
+  margin: 0.3rem 1rem;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding:0.1rem 1rem;
+}
+.navlinks li:hover{
+  background: rgb(156, 152, 152);
+}
+
+.main{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  background: linear-gradient(-90deg,white, white,rgb(151, 108, 168));
+
+}
+
+.textdiv{
+  margin: 0rem auto;
+  max-width: 400px;
+  height: 300px;
+  padding-top:4rem ;
+  color: rgb(44, 44, 44);
+}
+
+.imgdiv{
+  margin: 4rem auto;
+  width: 300px;
+  position: relative;
+
+}
+.imgdiv img{
+  width: 100%;
+}
+/*\\\\\\\\\\\\\\\\ Header and main end \\\\\\\\\\\\\\\\\***/
+
+/************ Search start *******************/
+.search{
+  position: absolute;
+  top:400px; 
+  width: 100%; 
+ 
+}
+
+.searchbox{
+  max-width: 500px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);  
+  display: grid;
+  grid-template-columns: 80% 20%;
+  margin: 0 3rem 0 0.3rem;
+}
+
+.searchtab{
+  padding: 0.4rem 1rem;
+  border-radius: 0.2rem;
+  border: 1px solid rgb(172, 137, 204);
+}
+
+
+
+/*\\\\\\\\\\\\\\\\ Search end \\\\\\\\\\\\\\\\\\\\\\\\\\*/
+
+
+
+@media only screen and (max-width:725px){
+    .main{
+      display: block;
+    }
+    .navlinks li{
+      margin: 0.2rem 0.4rem;
+      padding: 0.2rem 0.3rem;
+    }
+    
+}
