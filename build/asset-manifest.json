@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DESK-webdev.github.io/projectreact2/static/css/main.09b96c5c.chunk.css",
-    "main.js": "/DESK-webdev.github.io/projectreact2/static/js/main.2e5a6d8e.chunk.js",
-    "main.js.map": "/DESK-webdev.github.io/projectreact2/static/js/main.2e5a6d8e.chunk.js.map",
-    "runtime-main.js": "/DESK-webdev.github.io/projectreact2/static/js/runtime-main.3db9df91.js",
-    "runtime-main.js.map": "/DESK-webdev.github.io/projectreact2/static/js/runtime-main.3db9df91.js.map",
-    "static/js/2.bb1d5dc9.chunk.js": "/DESK-webdev.github.io/projectreact2/static/js/2.bb1d5dc9.chunk.js",
-    "static/js/2.bb1d5dc9.chunk.js.map": "/DESK-webdev.github.io/projectreact2/static/js/2.bb1d5dc9.chunk.js.map",
-    "index.html": "/DESK-webdev.github.io/projectreact2/index.html",
-    "precache-manifest.8371351fcebe1f0aea363d6994e163d9.js": "/DESK-webdev.github.io/projectreact2/precache-manifest.8371351fcebe1f0aea363d6994e163d9.js",
-    "service-worker.js": "/DESK-webdev.github.io/projectreact2/service-worker.js",
-    "static/css/main.09b96c5c.chunk.css.map": "/DESK-webdev.github.io/projectreact2/static/css/main.09b96c5c.chunk.css.map",
-    "static/js/2.bb1d5dc9.chunk.js.LICENSE.txt": "/DESK-webdev.github.io/projectreact2/static/js/2.bb1d5dc9.chunk.js.LICENSE.txt",
-    "static/media/header-img.jpg": "/DESK-webdev.github.io/projectreact2/static/media/header-img.7e3132f0.jpg"
+    "main.css": "/projectreact2/static/css/main.09b96c5c.chunk.css",
+    "main.js": "/projectreact2/static/js/main.2e5a6d8e.chunk.js",
+    "main.js.map": "/projectreact2/static/js/main.2e5a6d8e.chunk.js.map",
+    "runtime-main.js": "/projectreact2/static/js/runtime-main.f66d6d50.js",
+    "runtime-main.js.map": "/projectreact2/static/js/runtime-main.f66d6d50.js.map",
+    "static/js/2.bb1d5dc9.chunk.js": "/projectreact2/static/js/2.bb1d5dc9.chunk.js",
+    "static/js/2.bb1d5dc9.chunk.js.map": "/projectreact2/static/js/2.bb1d5dc9.chunk.js.map",
+    "index.html": "/projectreact2/index.html",
+    "precache-manifest.c5b782599dcd55b0b26de8b03bfdfdfa.js": "/projectreact2/precache-manifest.c5b782599dcd55b0b26de8b03bfdfdfa.js",
+    "service-worker.js": "/projectreact2/service-worker.js",
+    "static/css/main.09b96c5c.chunk.css.map": "/projectreact2/static/css/main.09b96c5c.chunk.css.map",
+    "static/js/2.bb1d5dc9.chunk.js.LICENSE.txt": "/projectreact2/static/js/2.bb1d5dc9.chunk.js.LICENSE.txt",
+    "static/media/header-img.jpg": "/projectreact2/static/media/header-img.7e3132f0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3db9df91.js",
+    "static/js/runtime-main.f66d6d50.js",
     "static/js/2.bb1d5dc9.chunk.js",
     "static/css/main.09b96c5c.chunk.css",
     "static/js/main.2e5a6d8e.chunk.js"
